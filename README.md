@@ -1,2 +1,2 @@
-# super-telegram
+# JS-portfolio
 JS-portfolio
